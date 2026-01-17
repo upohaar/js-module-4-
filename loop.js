@@ -3,6 +3,7 @@
 // }
 const flowers=["jui","sapla","joba","golap"];
 //console.log(flowers.length)
+
 for (let i =0; i<flowers.length; i++){
     //console.log(flowers[i])
   
