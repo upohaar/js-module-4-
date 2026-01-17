@@ -6,9 +6,6 @@ for(const section of sections){
     section.style.padding= '10px';
     section.style.borderRadius='10px';
     section.style.textAlign='center'
-
-
-    //section.style.
 }
 const lists = document.querySelectorAll('li');
 for(const list of lists){
